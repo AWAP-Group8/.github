@@ -90,7 +90,7 @@ h. Jsonwebtoken
 i. Mysql 
 j. Nodemailer
 
-Step 4:
+4. Step 4:
 Create local database: Start mysql and create a database.js file in the server folder and modify the “aaa” portion as needed:
 const mysql = require(“mysql”)
 const connection = mysql.createConnection({
@@ -100,7 +100,7 @@ password: “aaa”
 database: “aaa”
 });
 module.exports = connection;
-Step 5:
+5. Step 5:
 When start application, run the following command:
 cd server
 node index.js
