@@ -38,7 +38,7 @@ The GoGoShip is a web-based application that simulates an automated parcel deliv
 5. Database Design Tool: MySQL Workbench
 
 # The architecture of The Project:
-https://github.com/AWAP-Group8/driver-application-frontend?tab=readme-ov-file#the-architecture-of-the-project
+image
  
 # Project Interface Description:
 In this project, three parts of the front-end portion have been worked such as consumer user’s application, driver application and touchscreen view. For these three parts, we developed one backend and store date in database. We create a parcel generator robot, which shows how a parcel can be automatically created. We also use testing. 
