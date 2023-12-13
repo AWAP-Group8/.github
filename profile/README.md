@@ -38,7 +38,7 @@ The GoGoShip is a web-based application that simulates an automated parcel deliv
 5. Database Design Tool: MySQL Workbench
 
 # The architecture of The Project:
-image
+https://private-user-images.githubusercontent.com/143256533/289910117-3af80d1f-4ab2-4c0c-927a-69cbcc33fea9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI0Nzk4NjUsIm5iZiI6MTcwMjQ3OTU2NSwicGF0aCI6Ii8xNDMyNTY1MzMvMjg5OTEwMTE3LTNhZjgwZDFmLTRhYjItNGMwYy05MjdhLTY5Y2JjYzMzZmVhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxM1QxNDU5MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDcyZTdlY2YyM2RhZWQwNmNlYWY4MDkxMTc5YjNjZjU4M2U0MzBjODA5NWNjNzZiMDE5OTY5ZmQ1ZTQzY2UwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.p3yMpgwCU_UhN7SLnBDvvL6tNDWFzCLarPJKQA4n0hU
  
 # Project Interface Description:
 In this project, three parts of the front-end portion have been worked such as consumer user’s application, driver application and touchscreen view. For these three parts, we developed one backend and store date in database. We create a parcel generator robot, which shows how a parcel can be automatically created. We also use testing. 
