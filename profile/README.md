@@ -33,7 +33,7 @@ The project was created using the Agile software development methodology, and it
    - `Postman`
    - `JIRA`
 
-## Implementation tools for the Project:
+# Implementation tools for the Project:
 - Version Control System: `Git & GitHub`
 - Project Management Tool: `Kanban Board`
 - Code Editor: `Visual Studio Code`
@@ -56,16 +56,21 @@ For deployment, we use Render and Microsoft Azure.
 
 # Servers running the project:
 driver: `https://icy-field-03e7c6b03.4.azurestaticapps.net`
+
 consumer: `https://consumer-application-frontend.onrender.com/`
+
 touchscreen: `https://touchcreen-frontend.onrender.com/`
 
 # Project link:
 1. GitHub Link: `https://github.com/orgs/AWAP-Group8/repositories`
 2. Front-end application links:
+   
    a. driver: `https://github.com/AWAP-Group8/driver-application-frontend`
+   
    b. consumer: `https://github.com/AWAP-Group8/consumer-application-frontend`
+   
    c. touchscreen: `https://github.com/AWAP-Group8/touchscreen-application-frontend`
-4. Back-end logic link:`https://github.com/AWAP-Group8/backend`
+4. Back-end logic link: `https://github.com/AWAP-Group8/backend`
 
 
 ## How to install and use this Application:
