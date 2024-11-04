@@ -7,28 +7,28 @@ The project is being worked on by Oulu University of Applied Sciences (OAMK) thi
 3. Shamima Shammi Shammioamk (Shammioamk) (github.com)
 4. Luo Ruimin ruimin01(ruimin01) (github.com)
    
-## Introduction of the project: 
+# Introduction of the project: 
 GoGoShip is a web-based application that simulates an automated parcel delivery locker system. The system includes applications for `consumer users`, `delivery drivers`, a `parcel locker touchscreen simulator`, and a `parcel generator "robot"`. Parcels are transported more efficiently from senders to receivers with the help of a parcel delivery service, guaranteeing prompt and safe delivery. These services provide easy door-to-door solutions for both consumers and corporations by utilizing a network of carriers. This test plan outlines the testing approach, test cases, and requirements for ensuring the system's functionality, performance, and security.  
 
 # Description of the project work:
 The project was created using the Agile software development methodology, and it was implemented using the Kanban framework template included in GitHub Projects. Our team has maintained continuous communication throughout the project, and it has advanced according to plan. Our team has been using Teams to communicate remotely and on campus equally. In general, our team has demonstrated self-organization, communication, and the ability to produce applications that are functional and meet project criteria.
 
-## Technologies used in the project:
-### User Interface: 
+# Technologies used in the project:
+## User Interface: 
    We designed a draft in notebook pen and tried to proceed accordingly for save time.
-### Front-end:
+## Front-end:
    - `React.js`
    - `Framework`
-### Back-end:
+## Back-end:
    - `Node.js`
    - `Express.js`
    - `Axios.js`
-### Database:
+## Database:
    - `MySQL`
-### Deployment:
+## Deployment:
    - `Microsoft Azure Cloud Service`
    - `Render Service`
-### Testing:
+## Testing:
    - `Selenium`
    - `Postman`
    - `JIRA`
@@ -40,15 +40,18 @@ The project was created using the Agile software development methodology, and it
 - API Testing: `Postman`
 - Database Design Tool: `MySQL Workbench`
 
-## The architecture of The Project:
+# The architecture of The Project:
 <img width="452" alt="image" src="https://github.com/AWAP-Group8/consumer-application-frontend/assets/143256533/3af80d1f-4ab2-4c0c-927a-69cbcc33fea9">
 
-## Project Interface Description:
+# Project Interface Description:
 In this project, three parts of the front-end portion have been worked such as `consumer user’s application`, `driver application` and `touchscreen view`. For these three parts, we developed one backend and store date in database. We create a parcel generator robot, which shows how a parcel can be automatically created. We also use testing. 
 
 # Testing: 
+   - `Selenium`
+   - `Postman`
+   - `JIRA`
   
-## Deployment:
+# Deployment:
 For deployment, we use Render and Microsoft Azure.
 
 # Servers running the project:
